@@ -1,0 +1,12 @@
+.root {
+  max-width: 50rem;
+  margin: 3rem auto;
+}
+
+.body {
+}
+
+.prompt {
+  max-width: 35rem;
+  text-align: justify;
+}
