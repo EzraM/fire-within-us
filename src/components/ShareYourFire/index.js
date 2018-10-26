@@ -28,9 +28,10 @@ export default function ShareYourFire() {
           </p>
 
           <p>
-            Please send us your contribution so we can continue studying Torah
-            together.
+            Holy words are written on parchments and in books. They come alive in the thoughts and actions of open-hearted people, like the writers in this project and like you.
           </p>
+
+          <p>Together, may we study, pray and work to repair the world.</p>
 
           <p>Thank you!</p>
 
